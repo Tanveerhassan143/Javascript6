@@ -1,4 +1,7 @@
-alert("welcome")
+alert("welcome") 
+document.write("<h1>Cc0 116850 Tanveer Hassan</h1>")
+document.write("<hr>")
+document.write("<br>")
 document.write("<h1>Table</h1>")
 var a = prompt("enter the numbr for table")
 var b = prompt("enter the length of table")
